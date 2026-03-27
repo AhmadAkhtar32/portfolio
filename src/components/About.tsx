@@ -45,7 +45,7 @@ export default function About() {
           >
             <div style={{ width: "100%", aspectRatio: "3/4", maxWidth: "380px", backgroundColor: "#111111", border: "1px solid #2a2a2a", position: "relative", overflow: "hidden" }}>
               <img
-                src="/id.jfif"
+                src="/id.jpeg"
                 alt="Ahmad Akhtar"
                 style={{ width: "100%", height: "100%", objectFit: "cover", objectPosition: "center top" }}
               />
